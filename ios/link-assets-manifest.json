@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/argentcf-bold.otf",
+      "sha1": "7b33b48081f6786b6720c15c16d55bc2af2f7249"
+    },
+    {
+      "path": "src/assets/fonts/argentcf-bolditalic.otf",
+      "sha1": "895a6cd4caa2ae6c6aad4ae736e4e2a7835c6141"
+    },
+    {
+      "path": "src/assets/fonts/argentcf-extrabold.otf",
+      "sha1": "f17132c003ce556217814ab2b85c8b6f2ad0266b"
+    },
+    {
+      "path": "src/assets/fonts/argentcf-regular.otf",
+      "sha1": "996e9934ead8f61dbb853870737041e8b813c488"
+    },
+    {
+      "path": "src/assets/fonts/Comic-Book-Bold-Italic.otf",
+      "sha1": "7ebeca5541ce8b803631813427b57f8049af7125"
+    },
+    {
+      "path": "src/assets/fonts/Comic-Book-Bold.otf",
+      "sha1": "7a773d84d59ce768d08598cea9579bc852649c31"
+    },
+    {
+      "path": "src/assets/fonts/Comic-Book-Italic.otf",
+      "sha1": "98ab6f780c29dcae4324fa3f007c495cb0a3906d"
+    },
+    {
+      "path": "src/assets/fonts/Comic-Book-Reguler.otf",
+      "sha1": "bd4746e10c5272f28941fe79e5be13463dbdbab4"
+    },
+    {
+      "path": "src/assets/fonts/Grotley.otf",
+      "sha1": "4afb19b9d324144ef1e9033de3e58ee9ce407ca9"
+    },
+    {
+      "path": "src/assets/fonts/IrishGrover.ttf",
+      "sha1": "7b790f09c8257bfd25a1863693ae0c2f616c879f"
+    },
+    {
+      "path": "src/assets/fonts/Panton-BlackCaps.otf",
+      "sha1": "6d22170cce3fb298b3239c8dd8a8ec91e3deaf6b"
+    },
+    {
+      "path": "src/assets/fonts/Panton-BlackitalicCaps.otf",
+      "sha1": "2a0f25e89c1c065bbc2b970206bb202191344c18"
+    },
+    {
+      "path": "src/assets/fonts/Panton-LightCaps.otf",
+      "sha1": "b0eb1fc5cb40493803f61443c890cd31e0a84af4"
+    },
+    {
+      "path": "src/assets/fonts/Panton-LightitalicCaps.otf",
+      "sha1": "5efd249e7fb1cca6a880dbb9dab43702ebb31719"
+    },
+    {
+      "path": "src/assets/fonts/RethinkSans-Bold.ttf",
+      "sha1": "067ea31530fabcc9b829961d97b161fc3938b057"
+    },
+    {
+      "path": "src/assets/fonts/RethinkSans-BoldItalic.ttf",
+      "sha1": "c3d187b8d7238bb2f05f8af511ab66d1895cc431"
+    },
+    {
+      "path": "src/assets/fonts/RethinkSans-ExtraBold.ttf",
+      "sha1": "bafcc27baf8c65cc8f226c3aeb6c870bc5f5a444"
+    },
+    {
+      "path": "src/assets/fonts/RethinkSans-Medium.ttf",
+      "sha1": "f7466738494b945532f522f88ff0f19f3f8aed2a"
+    },
+    {
+      "path": "src/assets/fonts/RethinkSans-Regular.ttf",
+      "sha1": "b05c6cc73fc4ebef76a9c9faba700c5aa693117f"
+    },
+    {
+      "path": "src/assets/fonts/RethinkSans-SemiBold.ttf",
+      "sha1": "24c6c5528c31d70caea0f49d4eee67fbc37d0277"
+    }
+  ]
+}

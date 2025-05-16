@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040569885985",
+    "project_id": "temancuaca-4bb33",
+    "storage_bucket": "temancuaca-4bb33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040569885985:android:2a082c7d6ad3cb27868a60",
+        "android_client_info": {
+          "package_name": "com.sobatanginapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVTYHgGjoheBSdUIu4UtW3WKimb6uK9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
